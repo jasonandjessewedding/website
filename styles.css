@@ -1,12 +1,23 @@
 
+html {
+  background-color: #C1BBAE;
+}
+
 body {
   margin: 0 auto;
   max-width: 50em;
   font-family: "Minion", "Georgia", serif;
   color: #24275A;
+  background-color: white;
 }
 
 h1 {
   font-size: 48pt;
   font-family: "Perpetua", "Georgia", serif;
+}
+
+.textContent {
+  padding-left: 2em;
+  padding-right: 2em;
+  margin-bottom: 5em
 }
