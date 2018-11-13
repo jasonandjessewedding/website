@@ -1,0 +1,12 @@
+
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: "Minion", "Georgia", serif;
+  color: #24275A;
+}
+
+h1 {
+  font-size: 48pt;
+  font-family: "Perpetua", "Georgia", serif;
+}
